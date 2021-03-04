@@ -1,0 +1,8 @@
+{
+  "name": "panini",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "ca74d1f9"
+}
